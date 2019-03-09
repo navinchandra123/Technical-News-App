@@ -21,7 +21,7 @@ import java.util.HashMap;
 public class MainActivity extends AppCompatActivity {
 
     String API_KEY = "90c16ad61a76497c84f60c3e1a83e9e4";
-    String NEWS_SOURCE = "";
+    String NEWS_SOURCE = "engadget";
     ListView listNews;
     ProgressBar loader;
 
